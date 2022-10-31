@@ -4,7 +4,7 @@
 
 <img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611128540a1c9acdd7d5b3de0f8008ebded896069f4&rid=giphy.gif&ct=g" >
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sunny1509006&label=Profile%20views&color=0e75b6&style=flat" alt="sunny1509006" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sunny1509006&label=Profile%20views&color=0e75b6&style=flat" alt="Sunny1509006" /> </p>
 
 
 - 🔭 I’m currently working on **AI based chatbot**
@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sunny1509006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sunny1509006" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/Sunny1509006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/Sunny1509006" height="30" width="40" /></a>
 </p>
 
 
@@ -47,7 +47,7 @@
   </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sunny1509006&show_icons=true&locale=en&layout=compact" alt="Sunny1509006" /></p>
- 
+ </br>
 
 <p>&nbsp;&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sunny1509006&show_icons=true&locale=en" alt="Sunny1509006" /></p>
 
