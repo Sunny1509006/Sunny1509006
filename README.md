@@ -1,5 +1,5 @@
 <p align="center"><img src="https://github.com/Sunny1509006/Sunny1509006/blob/main/banner2.png" width="90%"></p>
-<h1 align="center">Hi 👋, I'm MD. Arif Istiake Sunny</h1>
+
 <h3 align="center">A Passionate Artificial Intelligence Engineer from Bangladesh</h3>
 
 <img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611128540a1c9acdd7d5b3de0f8008ebded896069f4&rid=giphy.gif&ct=g" >
