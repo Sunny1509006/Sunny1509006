@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/Sunny1509006/Sunny1509006/blob/main/banner2.png" width="100%"></p>
+<p align="center"><img src="https://github.com/Sunny1509006/Sunny1509006/blob/main/banner2.png" width="80%"></p>
 <h1 align="center">Hi 👋, I'm MD. Arif Istiake Sunny</h1>
 <h3 align="center">A Passionate Artificial Intelligence Engineer from Bangladesh</h3>
 
