@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/Sunny1509006/Sunny1509006/blob/main/banner.png" width="100%"></p>
+<p align="center"><img src="https://github.com/Sunny1509006/Sunny1509006/blob/main/banner2.png" width="100%"></p>
 <h1 align="center">Hi 👋, I'm MD. Arif Istiake Sunny</h1>
 <h3 align="center">A Passionate Artificial Intelligence Engineer from Bangladesh</h3>
 
@@ -47,7 +47,7 @@
   </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sunny1509006&show_icons=true&locale=en&layout=compact" alt="sunny1509006" /></p>
-<br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sunny1509006&show_icons=true&locale=en" alt="sunny1509006" /></p>
+
+<p>&nbsp;&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sunny1509006&show_icons=true&locale=en" alt="sunny1509006" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sunny1509006&" alt="sunny1509006" /></p>
